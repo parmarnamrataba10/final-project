@@ -1,5 +1,5 @@
 
-question 1:
+// question 1:
 
 
 #include <stdio.h>
@@ -32,7 +32,7 @@ int main()
     return 0;
 }
 
-question 2:
+// question 2:
 
 
 
@@ -71,7 +71,7 @@ for(int i=0;i<size;i++){
     return 0;
 }
 
-question 4:
+// question 4:
 
 
 #include<stdio.h>
@@ -117,7 +117,7 @@ printf("\n %d",a[i]);
 
 }
 
-question 5:
+// question 5:
 
 #include<stdio.h>
 

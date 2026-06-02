@@ -32,10 +32,6 @@ for(int i=0;i<size;i++){
 
     printf("Smallest element = %d", min);
 
-
-
-
-
     return 0;
 }
 
